@@ -1,0 +1,1 @@
+This code was written entirely by me in the winter of 2012. I'm not particularly proud of the code (too much copy-pasting around), but I haven't changed the code at all anyway. Most of the work is done in GameFrame.java
